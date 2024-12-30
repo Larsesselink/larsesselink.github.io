@@ -43,6 +43,10 @@
     {
       "name": "iDH Server",
       "address": "https://ani.idevicehacked.com"
+    },
+    {
+    "name": "[local]",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "[10.0.0.3:6969]"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
