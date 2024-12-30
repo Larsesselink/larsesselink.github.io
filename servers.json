@@ -45,7 +45,7 @@
       "address": "https://ani.idevicehacked.com"
     },
     {
-    "name": "[local]",   //doesn't really matter unless you're sharing this server list with someone else
+    "name": "[local]",
     "address": "[10.0.0.3:6969]"
     }
   ],
